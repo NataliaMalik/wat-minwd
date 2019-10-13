@@ -1,0 +1,10 @@
+C:\Users\Natalia\Desktop\wat-minwd\i6e3s1\c#\NumericsLibrary\NumericsLibrary\obj\Debug\netcoreapp2.1\NumericsLibrary.csprojAssemblyReference.cache
+C:\Users\Natalia\Desktop\wat-minwd\i6e3s1\c#\NumericsLibrary\NumericsLibrary\obj\Debug\netcoreapp2.1\NumericsLibrary.AssemblyInfoInputs.cache
+C:\Users\Natalia\Desktop\wat-minwd\i6e3s1\c#\NumericsLibrary\NumericsLibrary\obj\Debug\netcoreapp2.1\NumericsLibrary.AssemblyInfo.cs
+C:\Users\Natalia\Desktop\wat-minwd\i6e3s1\c#\NumericsLibrary\NumericsLibrary\bin\Debug\netcoreapp2.1\NumericsLibrary.deps.json
+C:\Users\Natalia\Desktop\wat-minwd\i6e3s1\c#\NumericsLibrary\NumericsLibrary\bin\Debug\netcoreapp2.1\NumericsLibrary.runtimeconfig.json
+C:\Users\Natalia\Desktop\wat-minwd\i6e3s1\c#\NumericsLibrary\NumericsLibrary\bin\Debug\netcoreapp2.1\NumericsLibrary.runtimeconfig.dev.json
+C:\Users\Natalia\Desktop\wat-minwd\i6e3s1\c#\NumericsLibrary\NumericsLibrary\bin\Debug\netcoreapp2.1\NumericsLibrary.dll
+C:\Users\Natalia\Desktop\wat-minwd\i6e3s1\c#\NumericsLibrary\NumericsLibrary\bin\Debug\netcoreapp2.1\NumericsLibrary.pdb
+C:\Users\Natalia\Desktop\wat-minwd\i6e3s1\c#\NumericsLibrary\NumericsLibrary\obj\Debug\netcoreapp2.1\NumericsLibrary.dll
+C:\Users\Natalia\Desktop\wat-minwd\i6e3s1\c#\NumericsLibrary\NumericsLibrary\obj\Debug\netcoreapp2.1\NumericsLibrary.pdb
