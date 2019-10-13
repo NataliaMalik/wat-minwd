@@ -8,3 +8,4 @@ C:\Users\Natalia\Desktop\wat-minwd\i6e3s1\c#\NumericsLibrary\NumericsLibrary\bin
 C:\Users\Natalia\Desktop\wat-minwd\i6e3s1\c#\NumericsLibrary\NumericsLibrary\bin\Debug\netcoreapp2.1\NumericsLibrary.pdb
 C:\Users\Natalia\Desktop\wat-minwd\i6e3s1\c#\NumericsLibrary\NumericsLibrary\obj\Debug\netcoreapp2.1\NumericsLibrary.dll
 C:\Users\Natalia\Desktop\wat-minwd\i6e3s1\c#\NumericsLibrary\NumericsLibrary\obj\Debug\netcoreapp2.1\NumericsLibrary.pdb
+C:\Users\Natalia\Desktop\wat-minwd\i6e3s1\c#\NumericsLibrary\NumericsLibrary\obj\Debug\netcoreapp2.1\NumericsLibrary.csproj.CoreCompileInputs.cache
